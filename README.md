@@ -5,3 +5,4 @@
 #### Class-03: [SMTP](https://github.com/Omarmdwasimuddin/n8n-SMTP-sent-01)
 #### Class-04: [OAuth](https://github.com/Omarmdwasimuddin/n8n-OAuth-02)
 #### Class-05: [n8n — Google Sheets & Gmail Integration Guide](https://github.com/Omarmdwasimuddin/n8n-Google-Sheets-03)
+#### Class-06: [n8n — If / Switch Condition Workflow Guide](https://github.com/Omarmdwasimuddin/n8n-If-Switch-condition-04)
