@@ -19,4 +19,5 @@
 #### Class-17: [n8n — Database (Supabase) Integration](https://github.com/Omarmdwasimuddin/n8n-Database-22)
 #### Class-18: [n8n — AI Smart Contact Form](https://github.com/Omarmdwasimuddin/n8n-AI-Smart-Contact-Form-23)
 #### Class-19: [n8n — Error Handling](https://github.com/Omarmdwasimuddin/n8n-Error-Handling-24)
-#### Class-20: []()
+#### Class-20: [n8n Human-in-the-Loop Automation](https://github.com/Omarmdwasimuddin/n8n-Human-in-the-Loop-Automation-25)
+#### Class-21: [n8n AI Recruitment Filter](https://github.com/Omarmdwasimuddin/n8n-AI-Recruitment-Filter-26)
