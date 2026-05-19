@@ -9,3 +9,4 @@
 #### Class-07: [n8n — Merge Node Guide](https://github.com/Omarmdwasimuddin/n8n-Merge-Node-05)
 #### Class-08: [n8n — Webhook](https://github.com/Omarmdwasimuddin/n8n-Webhooks-06)
 #### Class-09: [n8n — Loop Over Items](https://github.com/Omarmdwasimuddin/n8n-Loop-Over-Item-07)
+#### Class-10: [n8n — Weather Alert Automation](https://github.com/Omarmdwasimuddin/n8n-Weather-Alert-Automation-08)
