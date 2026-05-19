@@ -17,6 +17,6 @@
 #### Class-15: [n8n — RAG Basic (Retrieval-Augmented Generation)](https://github.com/Omarmdwasimuddin/n8n-RAG-Basic-19)
 #### Class-16: [n8n — Private AI Email Assistant](https://github.com/Omarmdwasimuddin/n8n-Private-AI-Email-Assistance-21)
 #### Class-17: [n8n — Database (Supabase) Integration](https://github.com/Omarmdwasimuddin/n8n-Database-22)
-#### Class-18: []()
+#### Class-18: [n8n — AI Smart Contact Form](https://github.com/Omarmdwasimuddin/n8n-AI-Smart-Contact-Form-23)
 #### Class-19: []()
 #### Class-20: []()
