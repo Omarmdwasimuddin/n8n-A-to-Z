@@ -11,7 +11,7 @@
 #### Class-09: [n8n — Loop Over Items](https://github.com/Omarmdwasimuddin/n8n-Loop-Over-Item-07)
 #### Class-10: [n8n — Weather Alert Automation](https://github.com/Omarmdwasimuddin/n8n-Weather-Alert-Automation-08)
 #### Class-11: [n8n — Code Node (JavaScript)](https://github.com/Omarmdwasimuddin/n8n-Code-Node-09)
-#### Class-12: []()
+#### Class-12: [n8n — Gemini AI Integration](https://github.com/Omarmdwasimuddin/n8n-with-Gemini-11)
 #### Class-13: []()
 #### Class-14: []()
 #### Class-15: []()
